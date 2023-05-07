@@ -1,15 +1,3 @@
-
-// import Amethyste from '../Images/Améthyste 6mm 182px.jpeg';
-// import Apatite from "../Images/Apatite 4mm 108px.jpeg";
-// import Aventurine from "../Images/Aventurine Vert 8mm 223px.jpeg";
-// import BlueLaceAgate from "../Images/Blue lace agate 4mm 108px.jpeg";
-// import Calcedoine from "../Images/Calcedoine 6mm Full Size.jpeg";
-// import Cornaline from "../Images/Cornaline 4mm 108px.jpeg";
-// import Grenat from "../Images/Grenat 8mm 322px.jpeg";
-// import Dumortierite from "../Images/Dumortiérite 8mm 223px.jpeg";
-
-
-
 export const Beades = [
     {
         value: require("../Images/Améthyste 6mm 182px.jpeg"),
@@ -174,3 +162,5 @@ export const Deg = [
         "285",
     ],
 ];
+
+
