@@ -1,14 +1,14 @@
 [
     {
-        "value": "require('../Images/Calcedoine 6mm Full Size.jpeg')",
+        "value": "Calcedoine%206mm%20Full%20Size.jpeg",
         "label": "Calcedoine 6mm"
     },
     {
-        "value": "require('../Images/Cornaline 4mm 108px.jpeg')",
+        "value": "Cornaline%204mm%20108px.jpeg",
         "label": "Cornaline 4mm"
     },
     {
-        "value": "require('../Images/Grenat 8mm 322px.jpeg')",
+        "value": "Grenat%208mm%20322px.jpeg",
         "label": "Grenat 8mm"
     }
 ]
